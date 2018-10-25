@@ -3,6 +3,7 @@
 In the beginning I thought that was a easy task ,but later on I realized that it needs some extra effort to make this code done.It took 2 days to make this program run successfully. Initially there were many bugs in the program(some of them were very hard to identify), but now I have fixed almost every bug in the code.I am gonna describe some of the important features in my program.
 
 1.Clothing Category
+
 In the men and women wear option in the program ,which took major portion of time in making the code.Usually when it comes to clothing ,different brands have different prices for different sizes.So I have took that into consideration and implemented in my program.So if you enter into clothes category, then you will get an option to choose your size and you just need to pay only for that size clothing.Isn’t that cool!!!
 
 2.Email ID verification
