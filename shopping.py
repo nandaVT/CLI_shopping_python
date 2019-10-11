@@ -14,6 +14,9 @@ while(z!=0):
 			z=z+1
 	if(z==3):	
 		print("Enter your password")
+		print("enter everything you have")
+		print("I am very happy boy")
+		
 		user=input()
 		print("Please wait .....")
 		time.sleep(2)
